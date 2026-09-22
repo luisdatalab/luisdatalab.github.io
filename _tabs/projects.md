@@ -10,9 +10,7 @@ Projetos, análises, experimentos e pesquisas apresentados com foco no processo:
 
 ## Jornada dos Dados com Machine Learning
 
-Estudo aplicado sobre previsão de churn em um aplicativo de navegação. A série
-explora preparação de dados, engenharia de atributos, modelagem preditiva e
-interpretação dos fatores associados ao cancelamento.
+**Tecnologias e temas:** Python, Pandas, scikit-learn, Random Forest, análise de dados, engenharia de atributos e Machine Learning.
 
 - [Parte 1 — Entendendo e preparando o dataset]({% post_url 2025-04-21-jornada_dos_dados %})
 - [Parte 2 — Modelagem preditiva com Machine Learning]({% post_url 2025-04-30-exploracao_preparacao %})
