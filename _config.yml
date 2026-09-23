@@ -14,7 +14,7 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Luis Eduardo Melonio Correia" # the main title
+title: "LuisDataLab" # the main title
 
 tagline: "Analista de Dados Sênior | Engenharia de Dados, BI e Analytics" # it will display as the subtitle
 
