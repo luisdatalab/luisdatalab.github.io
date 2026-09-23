@@ -17,7 +17,7 @@ I wanted to build something that would let me work through the full analytical c
 
 That is how **CLIMARISK AI** started.
 
-![CLIMARISK AI case study: from NOAA RONI data to a decision-ready analytical product](/assets/img/posts/climarisk-ai/why-i-built-climarisk-ai.png)
+![CLIMARISK AI case study: from NOAA RONI data to a decision-ready analytical product](/assets/imagens/posts/climarisk/why-i-built-climarisk-ai.png)
 _The project follows the data from its public source to the analytical experience._
 
 ## Why climate data?
@@ -49,7 +49,7 @@ The solution was designed in layers:
 5. A Power BI semantic model with reusable DAX measures.
 6. Power BI and HTML experiences built from the same analytical dataset.
 
-![CLIMARISK AI architecture preview showing NOAA, Python, Gold dataset, Power BI and HTML](/assets/img/posts/climarisk-ai/climarisk-ai-architecture-preview.png)
+![CLIMARISK AI architecture preview showing NOAA, Python, Gold dataset, Power BI and HTML](/assets/imagens/posts/climarisk/climarisk-ai-architecture-preview.png)
 _One dataset supports two analytical experiences: Power BI for the semantic layer and HTML for a portable portfolio experience._
 
 ## A rule that changed the project
