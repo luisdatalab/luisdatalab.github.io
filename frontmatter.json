@@ -54,5 +54,6 @@
       "title": "posts",
       "path": "[[workspace]]/_posts"
     }
-  ]
+  ],
+  "frontMatter.git.enabled": true
 }
