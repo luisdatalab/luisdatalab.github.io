@@ -1,20 +1,20 @@
 ---
-title: Projetos
+title: Projects
 icon: fas fa-chart-line
 order: 1
 permalink: /projetos/
 ---
 
-Projetos, análises, experimentos e pesquisas apresentados com foco no processo:
-**contexto → desenvolvimento → resultados → aprendizados**.
+Projects, analyses, experiments, and research presented with an emphasis on the
+process: **context → development → results → lessons learned**.
 
-## Áreas exploradas
+## Areas of focus
 
-- Análise de Dados e Business Intelligence
-- Dashboards e produtos analíticos
-- Engenharia de Dados e pipelines ETL/ELT
-- APIs, integrações e automação de processos
-- Inteligência Artificial e Machine Learning
-- Bancos de dados, SQL e modelagem de dados
-- Projetos completos de ponta a ponta
-- Estudos e experimentos
+- Data analysis and business intelligence
+- Dashboards and analytics products
+- Data engineering and ETL/ELT pipelines
+- APIs, integrations, and process automation
+- Artificial intelligence and machine learning
+- Databases, SQL, and data modeling
+- End-to-end projects
+- Research and experiments

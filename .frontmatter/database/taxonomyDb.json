@@ -1,15 +1,15 @@
 {
   "taxonomy": {
     "categories": [
-      "Análise de Dados",
+      "Data Analysis",
       "Machine Learning"
     ],
     "tags": [
-      "análise de dados",
+      "data analysis",
       "churn",
       "machine learning",
-      "modelo preditivo",
-      "preparação de dados",
+      "predictive model",
+      "data preparation",
       "random forest"
     ]
   }

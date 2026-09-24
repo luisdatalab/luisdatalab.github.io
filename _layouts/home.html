@@ -46,27 +46,26 @@ refactor: true
 <section class="card mb-4" aria-labelledby="portfolio-intro-title">
   <div class="card-body p-4">
     <p class="text-muted text-uppercase small fw-semibold mb-2">
-      Dados · Tecnologia · Inteligência Artificial
+      Data · Technology · Artificial Intelligence
     </p>
     <h1 id="portfolio-intro-title" class="card-title mt-0">
-      Projetos, pesquisas e soluções construídas com dados.
+      Projects, research, and solutions built with data.
     </h1>
     <p class="card-text">
-      Este é o espaço onde registro projetos, análises, experimentos e pesquisas,
-      apresentando não apenas o resultado, mas também o processo e os aprendizados
-      de cada trabalho.
+      This is where I share projects, analyses, experiments, and research,
+      documenting the process and lessons learned behind each result.
     </p>
     <p>
       <span class="badge rounded-pill bg-success">
-        Disponível para oportunidades remotas no Brasil e no exterior
+        Open to remote opportunities in Brazil and abroad
       </span>
     </p>
     <div class="d-flex flex-wrap gap-2">
-      <a class="btn btn-primary" href="{{ '/projetos/' | relative_url }}">Explorar projetos</a>
-      <a class="btn btn-outline-primary" href="{{ '/about/' | relative_url }}">Sobre mim</a>
+      <a class="btn btn-primary" href="{{ '/projetos/' | relative_url }}">Explore projects</a>
+      <a class="btn btn-outline-primary" href="{{ '/about/' | relative_url }}">About me</a>
     </div>
     <p class="text-muted small mt-4 mb-0">
-      Contexto → processo → resultados → aprendizados
+      Context → process → results → lessons learned
     </p>
   </div>
 </section>
@@ -83,7 +82,7 @@ refactor: true
             {% assign src = post.media_subpath | append: '/' | append: src | replace: '//', '/' %}
           {% endunless %}
 
-          {% assign alt = post.image.alt | xml_escape | default: 'Imagem de apresentação' %}
+          {% assign alt = post.image.alt | xml_escape | default: 'Post preview image' %}
 
           {% assign lqip = null %}
 

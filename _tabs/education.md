@@ -1,29 +1,28 @@
 ---
-title: Formação
+title: Education
 icon: fas fa-graduation-cap
 order: 3
 permalink: /formacao/
 ---
 
-Minha formação combina desenvolvimento de sistemas, análise de dados, estatística,
-Business Intelligence e engenharia de dados. Mantenho uma rotina de aprendizado
-contínuo para transformar necessidades de negócio em soluções técnicas claras e
-orientadas a resultados.
+My background combines software development, data analysis, statistics,
+business intelligence, and data engineering. I keep learning so I can turn
+business needs into clear, effective technical solutions.
 
-## Formação acadêmica
+## Academic education
 
-### Tecnologia em Análise e Desenvolvimento de Sistemas
+### Associate degree in Systems Analysis and Development
 
-**Universidade Estácio de Sá** · Concluído em 2024
+**Universidade Estácio de Sá** · Completed in 2024
 
-## Cursos concluídos
+## Completed courses
 
-| Curso | Instituição |
+| Course | Provider |
 | --- | --- |
-| Fundamentos da Ciência de Dados | Google Coursera |
-| Python: primeiros passos | Google Coursera |
-| Transformando dados em insights | Google Coursera |
-| O poder da estatística | Google Coursera |
+| Foundations of Data Science | Google Coursera |
+| Get Started with Python | Google Coursera |
+| Go Beyond the Numbers: Translate Data into Insights | Google Coursera |
+| The Power of Statistics | Google Coursera |
 | Apache Superset | Udemy |
 | Apache Airflow | Udemy |
 | Power BI e Python Pandas | Data Science Academy |

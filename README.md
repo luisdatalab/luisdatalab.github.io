@@ -1,31 +1,31 @@
-# Portfólio de Luis Eduardo Melonio Correia
+# Luis Eduardo Melonio Correia's Portfolio
 
-Portfólio profissional e base de conhecimento sobre projetos de dados, análises,
-experimentos e pesquisas.
+Professional portfolio and knowledge base covering data projects, analyses,
+experiments, and research.
 
 **Site:** [eduardomelonio.github.io](https://eduardomelonio.github.io)
 
-## Conteúdo
+## Contents
 
-- projetos de análise de dados e Machine Learning;
-- experiência em ETL/ELT, arquitetura e modelagem de dados;
-- Business Intelligence, dashboards e produtos analíticos;
-- formação, cursos e competências profissionais;
-- canais de contato.
+- data analysis and machine learning projects;
+- experience in ETL/ELT, data architecture, and data modeling;
+- business intelligence, dashboards, and analytics products;
+- education, courses, and professional skills;
+- contact information.
 
-## Tecnologias do site
+## Site technology
 
-O site utiliza [Jekyll](https://jekyllrb.com/) com o tema
-[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) e é publicado pelo
-GitHub Pages.
+The site uses [Jekyll](https://jekyllrb.com/) with the
+[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme and is
+published through GitHub Pages.
 
-## Execução local
+## Run locally
 
-Com Ruby e Bundler instalados:
+With Ruby and Bundler installed:
 
 ```bash
 bundle install
 bundle exec jekyll serve
 ```
 
-Depois, acesse `http://localhost:4000`.
+Then open `http://localhost:4000`.

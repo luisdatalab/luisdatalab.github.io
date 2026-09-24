@@ -1,17 +1,17 @@
 ---
-title: Contato
+title: Contact
 icon: fas fa-envelope
 order: 4
 permalink: /contato/
 ---
 
-## Vamos conversar sobre dados e novos desafios
+## Let's talk about data and new opportunities
 
-Estou disponível para oportunidades remotas no Brasil e no exterior, projetos e
-trocas de conhecimento.
+I'm open to remote opportunities in Brazil and abroad, projects, and
+knowledge sharing.
 
-- **E-mail:** [luiseduardo_ds@icloud.com](mailto:luiseduardo_ds@icloud.com)
-- **Telefone ou WhatsApp:** [+55 62 98234-1547](tel:+5562982341547)
+- **Email:** [luiseduardo_ds@icloud.com](mailto:luiseduardo_ds@icloud.com)
+- **Phone or WhatsApp:** [+55 62 99237-8330](tel:+5562992378330)
 - **LinkedIn:** [linkedin.com/in/luiseduardocorreia](https://www.linkedin.com/in/luiseduardocorreia)
 - **GitHub:** [github.com/EduardoMelonio](https://github.com/EduardoMelonio)
-- **Localização:** Aparecida de Goiânia, GO, Brasil
+- **Location:** Luziânia, Goiás, Brazil

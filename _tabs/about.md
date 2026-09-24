@@ -1,76 +1,66 @@
 ---
-title: Sobre
+title: About
 icon: fas fa-user
 order: 2
 permalink: /about/
 ---
 
-## Olá, sou Luis Eduardo Melonio Correia
+## Hi, I'm Luis Eduardo Melonio Correia
 
-Sou **Analista de Dados Sênior**, com experiência em pipelines ETL, arquitetura
-de dados, modelagem e produtos analíticos para tomada de decisão. Conecto
-necessidades de negócio à implementação de soluções claras, documentadas e
-orientadas a resultados.
+I'm a **Senior Data Analyst** with experience in ETL pipelines, data architecture,
+data modeling, and analytics products that support decision-making. I translate
+business needs into clear, well-documented solutions focused on results.
 
-**Localização:** Aparecida de Goiânia, GO, Brasil. Estou disponível para
-oportunidades remotas no Brasil e no exterior.
+**Location:** Aparecida de Goiânia, Goiás, Brazil. I'm open to remote
+opportunities in Brazil and abroad.
 
-## Experiência profissional
+## Professional experience
 
 ### Sodexo
 
-Atuo com áreas de RH e HSE, desenvolvendo e aprimorando soluções como:
-
-- automação de relatórios e produtos analíticos;
-- integração de dados em JSON com Python;
-- trabalho com bancos de dados Oracle;
-- arquitetura de dados no padrão Medallion;
-- migração de dashboards do Tableau para o Power BI;
-- tratamento de bases com mais de **47 mil colaboradores**;
-- iniciativas voltadas à qualidade e governança dos dados.
+...
 
 ### Desq Tecnologia
 
-Em minha experiência anterior, desenvolvi pipelines ETL/ELT e dashboards,
-implementei cargas incrementais D-1 e participei de projetos na AWS utilizando
-Glue, S3 e Athena. Uma dessas iniciativas reduziu em **30% o tempo total de
-carga**.
+In my previous role, I developed ETL/ELT pipelines and dashboards, implemented
+D-1 incremental data loads, and contributed to AWS projects using Glue, S3, and
+Athena. One of these initiatives **reduced total load time by 30%**.
 
-Meu trabalho valoriza documentação, desempenho, rastreabilidade e comunicação
-clara com as áreas de negócio.
+I prioritize documentation, performance, traceability, and clear communication
+with business teams.
 
-## Competências
+## Skills
 
-### Dados e Business Intelligence
+### Data and business intelligence
 
-- Power BI — uso recorrente — e Tableau
-- Dashboards, produtos analíticos e visualização de dados
-- Modelagem e análise de dados
+- Power BI (regular use) and Tableau
+- Dashboards, analytics products, and data visualization
+- Data modeling and analysis
 
-### Engenharia e automação de dados
+### Data engineering and automation
 
-- Pipelines ETL/ELT e cargas incrementais D-1
-- Arquitetura Medallion
-- Integrações em JSON, APIs e automação de processos
-- Qualidade, governança, documentação e rastreabilidade
+- ETL/ELT pipelines and D-1 incremental data loads
+- Medallion architecture
+- JSON and API integrations, and process automation
+- Data quality, governance, documentation, and traceability
 
-### Linguagens, bancos e nuvem
+### Programming, databases, and cloud
 
-- Python e Pandas
-- SQL e Oracle
-- AWS Glue, S3 e Athena
+- Python and Pandas
+- SQL and Oracle
+- AWS Glue, S3, and Athena
 
-### Análise e experimentação
+### Analysis and experimentation
 
-- Análise exploratória e preparação de dados
-- Machine Learning e Inteligência Artificial aplicada
+- Exploratory data analysis and data preparation
+- Machine learning and applied artificial intelligence
 
-## Como trabalho
+## How I work
 
-Busco registrar não apenas o resultado de cada iniciativa, mas também o contexto,
-o processo e os aprendizados. Curiosidade, evolução contínua e clareza na
-comunicação orientam minha forma de transformar dados em decisões.
+I document not only the outcome of each initiative, but also its context,
+process, and lessons learned. Curiosity, continuous learning, and clear
+communication guide how I turn data into decisions.
 
-## Contato
+## Contact
 
-Consulte meus canais profissionais na página [Contato](/contato/).
+Find my professional contact information on the [Contact](/contato/) page.
