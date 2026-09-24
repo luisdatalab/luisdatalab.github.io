@@ -16,7 +16,7 @@ timezone: America/Sao_Paulo
 
 title: "Luis Data Lab" # the main title
 
-tagline: "Senior Data Analyst | Data Engineering, BI, and Analytics" # it will display as the subtitle
+tagline: "Senior Analytics Engineer | Data Engineering, BI, and Analytics" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Professional portfolio featuring projects, research, and experience in ETL,
