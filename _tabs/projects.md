@@ -11,22 +11,22 @@ Selected end-to-end projects, analytical products, experiments, and research. I 
 
 <div class="card mb-4 shadow-sm">
   <a href="/projetos/climarisk/">
-    <img src="/assets/imagens/climarisk/part-01/climarisk-part-01-cover.png" class="card-img-top" alt="CLIMARISK — Architecture & Data Engineering">
+    <img src="/assets/imagens/climarisk/part-01/climarisk-part-01-cover.png" class="card-img-top" alt="CLIMARISK project series">
   </a>
   <div class="card-body">
     <p class="mb-2">
       <span class="badge text-bg-primary">PROJECT SERIES</span>
       <span class="badge text-bg-secondary">IN PROGRESS</span>
-      <span class="badge text-bg-success">PART 1 AVAILABLE</span>
+      <span class="badge text-bg-success">PART 2 AVAILABLE</span>
     </p>
     <h3 class="card-title">CLIMARISK</h3>
     <p class="card-text">
-      A climate and agricultural intelligence project built from public data, with an auditable Medallion architecture, analytical modeling, interactive analytics, and future data science components.
+      A climate and agricultural intelligence project built from public data, with an auditable Medallion architecture, temporal climate modeling, analytical products, interactive analytics, and future Data Science components.
     </p>
-    <p class="card-text"><strong>Current focus:</strong> Architecture & Data Engineering</p>
-    <p class="card-text"><small>Python · Data Engineering · Analytics Engineering · Data Quality · Climate Data · Agriculture · Data Science</small></p>
+    <p class="card-text"><strong>Current focus:</strong> ENSO Data Engineering & Temporal Modeling</p>
+    <p class="card-text"><small>Python · Data Engineering · Analytics Engineering · Data Quality · Temporal Modeling · Climate Data · Data Science</small></p>
     <a href="/projetos/climarisk/" class="btn btn-primary me-2">View Project</a>
-    <a href="/posts/climarisk-part-1-architecture-data-engineering/" class="btn btn-outline-secondary">Latest Article</a>
+    <a href="/posts/climarisk-part-2-engineering-the-enso-layer/" class="btn btn-outline-secondary">Latest Article</a>
   </div>
 </div>
 

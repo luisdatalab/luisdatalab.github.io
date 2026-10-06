@@ -12,9 +12,6 @@ comments: false
 mermaid: true
 ---
 
-> **CLIMARISK Project Series · Part 1 of 6**  
-> [View the CLIMARISK project overview →](/projetos/climarisk/)
-
 I did not start **CLIMARISK** because I wanted to build another dashboard.
 
 I started it because I wanted to understand a domain that has always been close to me, but never part of my day-to-day work: **climate and agriculture**. Living in Goiás, one of Brazil's major agricultural states, makes the scale of agribusiness hard to ignore. The more I read about ENSO, crop estimates, climate anomalies, and commodity markets, the more I realized that the most interesting question was not *which chart should I build?*
@@ -258,20 +255,9 @@ The roadmap from here is intentionally incremental:
 
 1. finalize source-specific extraction and transformation rules;
 2. build the analytical and dimensional model;
-3. publish the first climate analytics experience;
+3. publish the first climate dashboard;
 4. expand the agricultural module;
 5. integrate climate, agriculture, and market context;
-6. add statistical and predictive layers only after the data foundation is strong enough to support them.
-
----
-
-## Next in the series
-
-**Part 2 — Data Modeling**
-
-The next milestone will move from reliable pipelines to the analytical model: dimensions, facts, grain, relationships, and the semantic decisions that will eventually support the CLIMARISK interface.
-
-[**Back to the CLIMARISK project page →**](/projetos/climarisk/)
 6. explore ENSO-to-climate lag analysis and historical analogs;
 7. evaluate predictive models for agricultural anomalies and crop nowcasting.
 
@@ -288,3 +274,9 @@ The final product will be much more visual than what I am showing today. But thi
 [NOAA Climate Prediction Center](https://www.cpc.ncep.noaa.gov/) · [NASA POWER](https://power.larc.nasa.gov/) · [IBGE SIDRA](https://sidra.ibge.gov.br/) · [CONAB](https://www.conab.gov.br/) · [World Bank Commodity Markets](https://www.worldbank.org/en/research/commodity-markets)
 
 *CLIMARISK is a portfolio project. Analytical indicators developed in the project are documented as project methodologies and are not presented as official indicators from the source institutions.*
+
+---
+
+### Next in the series
+
+[**Part 2 — Engineering the ENSO Layer →**](/posts/climarisk-part-2-engineering-the-enso-layer/)

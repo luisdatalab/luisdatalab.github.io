@@ -52,6 +52,20 @@ Semantic Model / Analytics
 
 The pipeline also includes versioning, SHA-256 checksums, audit records, replay, rollback, publication controls, and stable `current/` datasets for analytical consumption.
 
+## Current milestone: ENSO analytical layer
+
+The second completed milestone turns NOAA RONI data into three analytical products:
+
+```text
+fact_enso_observation
+dim_enso_episode
+fact_enso_signal_run
+```
+
+The module separates signal, sequence, and qualified episode; distinguishes point-in-time qualification from retrospective episode membership; tracks recent-data revision status; and publishes its own Bronze, Silver, Gold, and audit artifacts without rewriting the agricultural pipeline.
+
+The validated implementation reconstructed **919 historical observations**, **44 qualified episodes**, and **58 Warm/Cold signal runs**, while the complete automated suite reached **61 passing tests with no identified regressions**.
+
 ## Data sources
 
 The project currently works with or is preparing integration for public sources such as:
@@ -65,46 +79,39 @@ The project currently works with or is preparing integration for public sources 
 
 ## Project series
 
-The portfolio will document the project as it evolves. Each article represents a completed milestone rather than a summary written only after the final product is ready.
+Each article represents a completed milestone rather than a retrospective summary written only after the final product is ready.
 
 | Part | Topic | Status |
 | --- | --- | --- |
-| **01** | [Architecture & Data Engineering](/posts/climarisk-part-1-architecture-data-engineering/) | **Published / Ready** |
-| **02** | Data Modeling | Planned |
-| **03** | Climate Analytics | Planned |
-| **04** | Agriculture Data Engineering | Planned |
-| **05** | Integrated Climate & Agriculture Analytics | Planned |
-| **06** | Data Science & Predictive Modeling | Planned |
+| **01** | [Architecture & Data Engineering](/posts/climarisk-part-1-architecture-data-engineering/) | Published |
+| **02** | [Engineering the ENSO Layer](/posts/climarisk-part-2-engineering-the-enso-layer/) | **Latest** |
+| **03** | Data Modeling | Planned |
+| **04** | Climate Analytics | Planned |
+| **05** | Agriculture Data Engineering | Planned |
+| **06** | Integrated Climate & Agriculture Analytics | Planned |
+| **07** | Data Science & Predictive Modeling | Planned |
 
 ## What is already implemented
 
 - Medallion architecture with Bronze, Silver, and Gold layers;
 - centralized `data/` structure organized by subject;
-- immutable versioned datasets;
-- `current/` publication pattern for stable consumption;
-- auditing by layer and subject;
-- SHA-256 verification;
-- execution identifiers and lineage;
+- immutable versioned datasets and stable `current/` publication paths;
+- auditing by layer, subject, and analytical dataset;
+- SHA-256 verification, execution identifiers, and lineage;
 - replay from captured Bronze data;
-- validation without publication;
-- rollback during failed publication;
-- concurrency lock;
-- Windows scheduler entry points;
-- automated tests for the architecture and transformation logic;
-- initial ENSO and agricultural data pipelines.
+- validation without publication and rollback during failed publication;
+- concurrency locks and observable Windows launchers;
+- automated testing of transformation and orchestration rules;
+- independent ENSO pipeline using NOAA RONI data;
+- temporal modeling of ENSO signals, runs, and qualified episodes;
+- point-in-time correctness for episode qualification;
+- explicit separation between recent provisional observations and historical context.
 
 ## What comes next
 
-The next milestones are intentionally incremental:
+The next milestone is **analytical and semantic modeling**: dimensions, relationships, measures, and a consumption model for the first climate dashboard.
 
-1. finalize source-specific extraction and transformation rules;
-2. build the dimensional and semantic model;
-3. publish the first climate analytics experience;
-4. expand the agricultural analytical layer;
-5. integrate climate, agriculture, and market context;
-6. analyze ENSO-to-climate temporal lags;
-7. build a historical analog engine;
-8. introduce predictive agricultural models when spatial and agronomic coverage is sufficient.
+After that, the roadmap continues with climate analytics, the agricultural module, integrated climate/agriculture analysis, ENSO-to-climate lag analysis, historical analogs, and predictive agricultural models when the data coverage is sufficient.
 
 ## Interactive product
 
@@ -116,4 +123,4 @@ The interactive CLIMARISK experience will be added here once the analytical inte
 
 ### Latest article
 
-[**Part 1 — Architecture & Data Engineering →**](/posts/climarisk-part-1-architecture-data-engineering/)
+[**Part 2 — Engineering the ENSO Layer →**](/posts/climarisk-part-2-engineering-the-enso-layer/)
